@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://submissions.us-east-1.linodeobjects.com/and102/vCiIPDfq.gif
+https://submissions.us-east-1.linodeobjects.com/and102/yTXYcBId.gif
 
 
 GIF created with KAP  

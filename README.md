@@ -26,9 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-https://submissions.us-east-1.linodeobjects.com/and102/B2VEhZSl.gif
-
+https://submissions.us-east-1.linodeobjects.com/and102/7zCoug1r.gif
 GIF created with KAP  
 
 ## Notes

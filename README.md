@@ -16,19 +16,18 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
-- [ ] **Implement daily notifications to prompt users to fill in their data**
+- [x] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [x] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] when adding a new item to calorie tracker, a notification sound is played
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-https://submissions.us-east-1.linodeobjects.com/and102/yTXYcBId.gif
-
+https://submissions.us-east-1.linodeobjects.com/and102/B2VEhZSl.gif
 
 GIF created with KAP  
 
